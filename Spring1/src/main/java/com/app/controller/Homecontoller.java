@@ -28,10 +28,8 @@ public class Homecontoller
 	public void hello()
 	{
 		System.out.println("hello");
+		System.out.println("New line");
 	}
-	
-	
-	
-	
 }
+
 
