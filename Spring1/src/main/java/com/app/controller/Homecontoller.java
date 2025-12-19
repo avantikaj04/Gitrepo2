@@ -25,6 +25,11 @@ public class Homecontoller
 		System.out.println("display");
 	}
 	
+	public void hello()
+	{
+		System.out.println("hello");
+	}
+	
 	
 	
 	
