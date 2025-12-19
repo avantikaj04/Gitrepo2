@@ -20,23 +20,7 @@ public class Homecontoller
 		return "welcome";
 	}
 
-	public void display()
-	{
-		System.out.println("display");
-	}
 	
-	public void hello()
-	{
-		System.out.println("hello");
-		System.out.println("New line");
-
-	}
-
-	
-	public void h1()
-	{
-		
-	}
 	
 	
 }
