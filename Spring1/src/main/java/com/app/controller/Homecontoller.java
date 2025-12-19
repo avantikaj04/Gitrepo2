@@ -19,8 +19,14 @@ public class Homecontoller
 	{
 		return "welcome";
 	}
+
+	public void display()
+	{
+		System.out.println("display");
+	}
 	
 	
 	
 	
 }
+
