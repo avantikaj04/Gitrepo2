@@ -20,9 +20,15 @@ public class Homecontoller
 		return "welcome";
 	}
 
+	public void hello()
+	{
+		System.out.println("hello");
+	}
+
 	
 	
 	
 }
+
 
 
