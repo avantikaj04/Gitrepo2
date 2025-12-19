@@ -28,7 +28,14 @@ public class Homecontoller
 	public void hello()
 	{
 		System.out.println("hello");
+		
 	}
+	
+	public void h1()
+	{
+		
+	}
+	
 	
 	
 	
